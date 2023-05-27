@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppSem04-s2-GeoQuiz</string>
+    <string name="cual_es_la_capital_del_per">¿Es Lima la capital de Perú?</string>
+    <string name="numero">0</string>
+    <string name="puntos">Puntos:</string>
+    <string name="reset">RESET</string>
+    <string name="level">Level:</string>
+    <string name="_1">1</string>
+    <string name="heart"> </string>
+    <string name="vidas">Vidas:</string>
+</resources>
